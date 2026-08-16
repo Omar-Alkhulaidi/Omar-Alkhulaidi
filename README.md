@@ -21,7 +21,7 @@ My focus is on understanding the business problem first, then using data to buil
 
 ## Featured Projects
 
-### 📦 [Demand & Replenishment Console](https://github.com/Omar-Alkhulaidi/demand-replenishment-console)
+### 📦 [Predictive Demand Planning and Procurement Execution Analysis](https://github.com/Omar-Alkhulaidi/demand-replenishment-console)
 
 A Power BI solution designed to connect **demand planning with daily inventory execution**.
 
